@@ -1,0 +1,7 @@
+function fuerza(){
+  return (nroBolitas(Rojo))
+}
+
+procedure BarrerElPolvo(){
+  Poner(Negro)
+}

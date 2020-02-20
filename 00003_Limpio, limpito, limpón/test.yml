@@ -1,0 +1,24 @@
+interactive: false
+check_head_position: false
+subject: LimpiarHueso
+examples:
+ - initial_board: |
+     GBB/1.0
+     size 1 1
+     cell 0 0 Negro 1 Rojo 4
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 1 1
+     cell 0 0 Negro 3 Rojo 4
+     head 0 0
+ - initial_board: |
+     GBB/1.0
+     size 1 1
+     cell 0 0 Negro 1 Rojo 6 
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 1 1
+     cell 0 0 Negro 4 Rojo 6
+     head 0 0

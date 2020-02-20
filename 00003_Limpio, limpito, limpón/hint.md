@@ -1,0 +1,1 @@
+La mitad de la fuerza es esa `fuerza` dividido 2.
