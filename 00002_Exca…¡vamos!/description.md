@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-sierra-de-las-quijadas-secundaria/master/assets/attires/config_1582213845106.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-sierra-de-las-quijadas-secundaria/master/assets/attires/config_1582214809901.json"></gs-attire>
 
 Ya sabemos donde podrían estar los huesos del dinosaurio :relieved:, ahora tenemos que excavar para finalmente encontrarlos en la tierra. :seedling:
 
