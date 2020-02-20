@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-sierra-de-las-quijadas-secundaria/master/assets/attires/config_1582213845106.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-sierra-de-las-quijadas-secundaria/master/assets/attires/config_1582214809901.json"></gs-attire>
 
 Después de días y días de estudio e investigación :book:, Mar concluyó que en cierta zona del Parque Nacional se esconden los restos de un Pterodaustro Guinazui. 
 
