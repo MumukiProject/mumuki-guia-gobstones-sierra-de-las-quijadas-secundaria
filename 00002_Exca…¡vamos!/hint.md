@@ -1,0 +1,1 @@
+Recordá que la bandera es una bolita roja y el pasto una bolita verde.
