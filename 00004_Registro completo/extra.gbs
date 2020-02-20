@@ -1,0 +1,3 @@
+procedure hayHueso(){
+  return (hayBolitas(Negro))
+}

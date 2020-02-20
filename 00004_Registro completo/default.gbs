@@ -1,0 +1,15 @@
+procedure RegistrarHueso(){
+  
+}
+
+
+program{
+  while(puedeMover(Norte)){
+    while(puedeMover(Este)){
+      RegistrarHueso()
+      Mover(Este)
+    }
+    IrAlBorde(Oeste)
+    Mover(Norte)
+  }
+}
