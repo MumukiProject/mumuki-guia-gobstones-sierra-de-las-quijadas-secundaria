@@ -1,0 +1,10 @@
+procedure ExcavarTerreno(){
+  repeat(3){
+    Excavar()
+  }
+}
+
+procedure Excavar(){
+  
+  
+}
