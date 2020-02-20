@@ -1,0 +1,1 @@
+¡Genial! :tada: Ya pudimos identificar la zona donde se encuentran los restos fósiles :triangular_flag_on_post:. ¡Sigamos explorando! :mag:

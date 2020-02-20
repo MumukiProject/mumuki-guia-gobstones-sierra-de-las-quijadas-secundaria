@@ -1,0 +1,14 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Declares:PonerBandera
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: UsesWhile
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:PonerBandera
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: PonerBandera
+  inspection: UsesIf
